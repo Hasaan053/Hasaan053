@@ -1,76 +1,100 @@
-# 👋 Hi, I'm Hasaan Azeem!  
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=435&lines=Hey+There!+I'm+Hasaan+Azeem;Full-Stack+Developer;Tech+Enthusiast+%26+Entrepreneur;Let's+Build+Something+Awesome!+🚀" alt="Typing SVG" />
+</p>
 
-![Banner](https://source.unsplash.com/1500x500/?technology,code)  
-
-🚀 **Tech Enthusiast | Developer | Entrepreneur**  
-
-I'm passionate about **coding**, **AI automation**, and **building digital businesses**. I specialize in:  
-- 🖥️ Frontend Development (HTML, CSS, JavaScript, React)  
-- 🛠️ Backend (Node.js, Python, Django)  
-- 🛒 E-commerce Automation (Dropshipping, Walmart, Amazon)  
-- 🧠 AI & Automation (AI-Generated Content, Trading Bots)  
-- 🎨 UI/UX & Web Design  
+<!-- Profile Header -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600">
+</p>
 
 ---
 
-## 🌟 Connect with Me  
+# 👋 Welcome to My GitHub Profile!  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hasaanazeem/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hasaan_azeem/)  
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com/)  
+🔹 **Hi, I'm Hasaan Azeem!**  
+🔹 **A Passionate Developer, Tech Enthusiast, & Entrepreneur.**  
+🔹 **I build Websites, AI Bots, and E-commerce Solutions.**  
+🔹 **Currently Learning:** Blockchain & AI Automation.  
 
 ---
 
-## 🔥 My Tech Stack  
+## 🎯 **About Me**  
 
-**Languages & Frameworks:**  
+- 💻 I love coding and problem-solving.  
+- 🚀 Founder of **[Technologant](https://technologant.com/)** (E-commerce & Web Solutions)  
+- 🎥 Running a **YouTube Automation Channel** on AI & Tech.  
+- 📚 Currently diving deep into **Post-Quantum Cryptography**.  
+- 🌎 Exploring Web3, Blockchain, and AI-powered automation.  
+
+---
+
+## 💡 **My Skillset**  
+
+### 🚀 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
-
-**Tools & Platforms:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 **GitHub Stats**  
 
-![Hasaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HasaanAzeem&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HasaanAzeem&layout=compact&theme=radical)  
-
----
-
-## 🎯 Projects & Repositories  
-
-🚀 **Latest Projects:**  
-- 📝 **[To-Do List with Reminders](https://github.com/HasaanAzeem/todo-reminder-app)**  
-- 📊 **[Container Monitoring Dashboard](https://github.com/HasaanAzeem/container-monitoring-dashboard)**  
-- 🤖 **[Binary Trading Bot](https://github.com/HasaanAzeem/binary-trading-bot)**  
-
----
-
-## 🎥 Latest YouTube Video  
-
-[![Latest Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)  
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=HasaanAzeem&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=HasaanAzeem&theme=radical" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HasaanAzeem&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🎵 Spotify Now Playing  
+## 🔥 **Latest Projects**  
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)  
-
----
-
-## 🚀 Fun Fact  
-
-💡 *"The best way to predict the future is to create it!"*  
-
-📌 Let's collaborate! If you have an exciting project or idea, feel free to reach out. 🚀  
+📌 **[To-Do List with Reminders](https://github.com/HasaanAzeem/todo-reminder-app)** – A powerful C# to-do list with notifications.  
+📌 **[Container Monitoring Dashboard](https://github.com/HasaanAzeem/container-monitoring-dashboard)** – Track and visualize real-time Docker container metrics.  
+📌 **[Binary Trading Bot](https://github.com/HasaanAzeem/binary-trading-bot)** – AI-powered bot for automated trading on **Quotex**.  
 
 ---
 
-**💖 Thanks for visiting my profile! Happy coding! 🎉**  
+## 🏆 **GitHub Trophies**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HasaanAzeem&theme=matrix&no-frame=true&column=5">
+</p>
+
+---
+
+## 📝 **Connect With Me!**  
+
+📩 **Email:** [hasaanazeem07@gmail.com](mailto:hasaanazeem07@gmail.com)  
+🌐 **Website:** [Technologant](https://technologant.com/)  
+📱 **LinkedIn:** [Hasaan Azeem](https://www.linkedin.com/in/hasaan-azeem/)  
+📷 **Instagram:** [@hasaan_azeem](https://www.instagram.com/hasaan_azeem03/)  
+🎥 **YouTube:** [Tech Channel](https://www.youtube.com/c/YOUR_CHANNEL)  
+
+---
+
+## 🏁 **Fun Fact**  
+
+💡 *"Talk is cheap. Show me the code!" - Linus Torvalds*  
+
+🌟 Let's build something great together! If you have an **exciting project**, feel free to reach out! 🚀  
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="200">
+</p>
+
